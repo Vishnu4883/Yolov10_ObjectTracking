@@ -1,0 +1,3 @@
+#Ignoring these two file beacuse of large size to push to git
+*.pt
+*.avi
